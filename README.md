@@ -12,13 +12,20 @@
 
 <br/>
 
-<p>
-  <a href="https://www.linkedin.com/in/mehranmoghadasi"><img src="https://img.shields.io/badge/LinkedIn-Connect-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
-  <a href="mailto:mehran.moghadasi@gmail.com"><img src="https://img.shields.io/badge/Email-Reach_out-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/></a>
-  <a href="https://MehranMoghadasi.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-22D3EE?style=for-the-badge&logo=safari&logoColor=white&labelColor=0D1117" alt="Portfolio"/></a>
-  <img src="https://img.shields.io/badge/Edmonton%2C_AB-Canada-34D399?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" alt="Location"/>
-  <img src="https://img.shields.io/badge/Open_to_Work-Available-F472B6?style=for-the-badge&labelColor=0D1117" alt="Open to Work"/>
-</p>
+</div>
+
+<table align="center" cellspacing="0" cellpadding="6"><tr>
+<td align="center" width="200"><a href="https://www.linkedin.com/in/mehranmoghadasi"><img src="https://img.shields.io/badge/LinkedIn-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="34"/></a></td>
+<td align="center" width="200"><a href="mailto:mehran.moghadasi@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="34"/></a></td>
+<td align="center" width="200"><a href="https://MehranMoghadasi.github.io"><img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" height="34"/></a></td>
+</tr></table>
+
+<table align="center" cellspacing="0" cellpadding="6"><tr>
+<td align="center" width="300"><img src="https://img.shields.io/badge/Edmonton%2C_AB%20%C2%B7%20Canada-34D399?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" alt="Edmonton, AB · Canada" height="32"/></td>
+<td align="center" width="300"><img src="https://img.shields.io/badge/%E2%9C%93%20Open%20to%20Work-F472B6?style=for-the-badge&labelColor=0D1117" alt="Open to Work" height="32"/></td>
+</tr></table>
+
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=mehranmoghadasi&style=flat-square&color=06B6D4&label=PROFILE+VIEWS" alt="profile views"/>
 
@@ -222,15 +229,30 @@
 
 ## <picture><img src="https://img.shields.io/badge/-🔗_Connect-06B6D4?style=flat-square&labelColor=0D1117" alt="Connect"/></picture>
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/mehranmoghadasi"><img src="https://img.shields.io/badge/LinkedIn-in%2Fmehranmoghadasi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
-&nbsp;
-<a href="mailto:mehran.moghadasi@gmail.com"><img src="https://img.shields.io/badge/Email-mehran.moghadasi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/></a>
-&nbsp;
-<a href="https://MehranMoghadasi.github.io"><img src="https://img.shields.io/badge/Website-MehranMoghadasi.github.io-22D3EE?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0D1117" alt="Website"/></a>
-
-</div>
+<table align="center" cellspacing="0" cellpadding="14">
+  <tr>
+    <td align="center" width="240">
+      <a href="https://www.linkedin.com/in/mehranmoghadasi">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="36"/>
+      </a>
+    </td>
+    <td align="center" width="240">
+      <a href="mailto:mehran.moghadasi@gmail.com">
+        <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="36"/>
+      </a>
+    </td>
+    <td align="center" width="240">
+      <a href="https://MehranMoghadasi.github.io">
+        <img src="https://img.shields.io/badge/Website-22D3EE?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website" height="36"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><sub><code>in/mehranmoghadasi</code></sub></td>
+    <td align="center"><sub><code>mehran.moghadasi@gmail.com</code></sub></td>
+    <td align="center"><sub><code>MehranMoghadasi.github.io</code></sub></td>
+  </tr>
+</table>
 
 <br/>
 
