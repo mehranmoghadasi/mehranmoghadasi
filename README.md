@@ -26,9 +26,7 @@
 
 <br/>
 
-<!-- ───────────────────────────────────────  ABOUT  ───────────────────────────────────────── -->
-
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-◢_About-06B6D4?style=flat-square&labelColor=0D1117"/><img src="https://img.shields.io/badge/-◢_About-06B6D4?style=flat-square" alt="About"/></picture>
+## <picture><img src="https://img.shields.io/badge/-◢_About-06B6D4?style=flat-square&labelColor=0D1117" alt="About"/></picture>
 
 ```diff
 + Marketing strategist who ships code. Engineer who understands acquisition funnels.
@@ -41,8 +39,6 @@
 ```
 
 <br/>
-
-<!-- ──────────────────────────────────────  WHAT I BUILD  ────────────────────────────────────── -->
 
 ## <picture><img src="https://img.shields.io/badge/-⚡_What_I_Build-8B5CF6?style=flat-square&labelColor=0D1117" alt="What I Build"/></picture>
 
@@ -75,8 +71,6 @@
 
 <br/>
 
-<!-- ───────────────────────────────────────  TECH STACK  ─────────────────────────────────────── -->
-
 ## <picture><img src="https://img.shields.io/badge/-🛠_Tech_Stack-22D3EE?style=flat-square&labelColor=0D1117" alt="Tech Stack"/></picture>
 
 <div align="center">
@@ -98,7 +92,7 @@
 <img src="https://img.shields.io/badge/GTM-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white&labelColor=0D1117" alt="GTM"/>
 <img src="https://img.shields.io/badge/Search_Console-458CF5?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1117" alt="GSC"/>
 <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white&labelColor=0D1117" alt="Looker Studio"/>
-<img src="https://img.shields.io/badge/Ahrefs-FF7A59?style=for-the-badge&logo=&logoColor=white&labelColor=0D1117" alt="Ahrefs"/>
+<img src="https://img.shields.io/badge/Ahrefs-FF7A59?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="Ahrefs"/>
 <img src="https://img.shields.io/badge/SEMrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white&labelColor=0D1117" alt="SEMrush"/>
 <img src="https://img.shields.io/badge/Screaming_Frog-23A36B?style=for-the-badge&labelColor=0D1117" alt="Screaming Frog"/>
 <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white&labelColor=0D1117" alt="HubSpot"/>
@@ -112,73 +106,96 @@
 
 <br/>
 
-<!-- ─────────────────────────────────────  FEATURED PROJECTS  ───────────────────────────────────── -->
-
 ## <picture><img src="https://img.shields.io/badge/-📌_Featured_Projects-A78BFA?style=flat-square&labelColor=0D1117" alt="Featured Projects"/></picture>
 
 <table>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/mehranmoghadasi/technical-seo-audit-framework">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehranmoghadasi&repo=technical-seo-audit-framework&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=8B5CF6&text_color=E6EDF3" alt="Technical SEO Audit Framework"/>
-      </a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mehranmoghadasi/technical-seo-audit-framework">🔍&nbsp; technical-seo-audit-framework</a></h3>
+      <p>Crawl-aware audit framework with a Python URL checker and JSON-LD schema templates. Built for agencies running site-wide audits across 100+ pages.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0D1117" alt="Python"/>
+        <img src="https://img.shields.io/badge/Technical_SEO-06B6D4?style=flat-square&labelColor=0D1117" alt="Technical SEO"/>
+        <img src="https://img.shields.io/badge/JSON--LD-8B5CF6?style=flat-square&labelColor=0D1117" alt="JSON-LD"/>
+        <img src="https://img.shields.io/github/stars/mehranmoghadasi/technical-seo-audit-framework?style=flat-square&color=22D3EE&labelColor=0D1117" alt="stars"/>
+      </p>
     </td>
-    <td width="50%">
-      <a href="https://github.com/mehranmoghadasi/seo-keyword-research-tools">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehranmoghadasi&repo=seo-keyword-research-tools&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=8B5CF6&text_color=E6EDF3" alt="SEO Keyword Research Tools"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/mehranmoghadasi/google-ads-campaign-playbook">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehranmoghadasi&repo=google-ads-campaign-playbook&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=8B5CF6&text_color=E6EDF3" alt="Google Ads Campaign Playbook"/>
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/mehranmoghadasi/wordpress-performance-optimization">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehranmoghadasi&repo=wordpress-performance-optimization&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=8B5CF6&text_color=E6EDF3" alt="WordPress Performance Optimization"/>
-      </a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mehranmoghadasi/seo-keyword-research-tools">🧮&nbsp; seo-keyword-research-tools</a></h3>
+      <p>Python keyword-clustering toolkit using Jaccard similarity. Turns a flat keyword list into topic clusters mapped to content pages.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0D1117" alt="Python"/>
+        <img src="https://img.shields.io/badge/Keyword_Research-06B6D4?style=flat-square&labelColor=0D1117" alt="Keyword Research"/>
+        <img src="https://img.shields.io/badge/Clustering-8B5CF6?style=flat-square&labelColor=0D1117" alt="Clustering"/>
+        <img src="https://img.shields.io/github/stars/mehranmoghadasi/seo-keyword-research-tools?style=flat-square&color=22D3EE&labelColor=0D1117" alt="stars"/>
+      </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/mehranmoghadasi/wordpress-lead-generation-starter">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehranmoghadasi&repo=wordpress-lead-generation-starter&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=8B5CF6&text_color=E6EDF3" alt="WordPress Lead Generation Starter"/>
-      </a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mehranmoghadasi/google-ads-campaign-playbook">🎯&nbsp; google-ads-campaign-playbook</a></h3>
+      <p>Google Ads strategy guide paired with a Python ROAS / budget calculator. Decision framework + executable math in one repo.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0D1117" alt="Python"/>
+        <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=googleads&logoColor=white&labelColor=0D1117" alt="Google Ads"/>
+        <img src="https://img.shields.io/badge/ROAS-F472B6?style=flat-square&labelColor=0D1117" alt="ROAS"/>
+        <img src="https://img.shields.io/github/stars/mehranmoghadasi/google-ads-campaign-playbook?style=flat-square&color=22D3EE&labelColor=0D1117" alt="stars"/>
+      </p>
     </td>
-    <td width="50%">
-      <a href="https://github.com/mehranmoghadasi/digital-marketing-case-studies">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehranmoghadasi&repo=digital-marketing-case-studies&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=8B5CF6&text_color=E6EDF3" alt="Digital Marketing Case Studies"/>
-      </a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mehranmoghadasi/wordpress-performance-optimization">⚡&nbsp; wordpress-performance-optimization</a></h3>
+      <p>WordPress speed optimization toolkit — PHP helpers, .htaccess rules, and a 50-point checklist for getting Core Web Vitals into the green.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white&labelColor=0D1117" alt="PHP"/>
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white&labelColor=0D1117" alt="WordPress"/>
+        <img src="https://img.shields.io/badge/Web_Vitals-34D399?style=flat-square&labelColor=0D1117" alt="Web Vitals"/>
+        <img src="https://img.shields.io/github/stars/mehranmoghadasi/wordpress-performance-optimization?style=flat-square&color=22D3EE&labelColor=0D1117" alt="stars"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mehranmoghadasi/wordpress-lead-generation-starter">🧱&nbsp; wordpress-lead-generation-starter</a></h3>
+      <p>Conversion-optimized WordPress starter theme for service businesses — built around speed, lead capture, and trust signals.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white&labelColor=0D1117" alt="PHP"/>
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white&labelColor=0D1117" alt="WordPress"/>
+        <img src="https://img.shields.io/badge/CRO-F472B6?style=flat-square&labelColor=0D1117" alt="CRO"/>
+        <img src="https://img.shields.io/github/stars/mehranmoghadasi/wordpress-lead-generation-starter?style=flat-square&color=22D3EE&labelColor=0D1117" alt="stars"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mehranmoghadasi/digital-marketing-case-studies">📊&nbsp; digital-marketing-case-studies</a></h3>
+      <p>Anonymized real campaign case studies — Google Ads, SEO, multi-channel — with the strategy, tactics, and results behind each.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Case_Studies-06B6D4?style=flat-square&labelColor=0D1117" alt="Case Studies"/>
+        <img src="https://img.shields.io/badge/Multi--channel-8B5CF6?style=flat-square&labelColor=0D1117" alt="Multi-channel"/>
+        <img src="https://img.shields.io/badge/Strategy-A78BFA?style=flat-square&labelColor=0D1117" alt="Strategy"/>
+        <img src="https://img.shields.io/github/stars/mehranmoghadasi/digital-marketing-case-studies?style=flat-square&color=22D3EE&labelColor=0D1117" alt="stars"/>
+      </p>
     </td>
   </tr>
 </table>
 
 <br/>
-
-<!-- ─────────────────────────────────────  GITHUB ACTIVITY  ───────────────────────────────────── -->
 
 ## <picture><img src="https://img.shields.io/badge/-📊_GitHub_Activity-34D399?style=flat-square&labelColor=0D1117" alt="GitHub Activity"/></picture>
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=mehranmoghadasi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=8B5CF6&text_color=E6EDF3&include_all_commits=true&count_private=false" alt="Stats"/>
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehranmoghadasi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=E6EDF3&layout=compact&langs_count=8" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehranmoghadasi&theme=tokyo-night&bg_color=0D1117&color=06B6D4&line=8B5CF6&point=22D3EE&hide_border=true&area=true" alt="Activity Graph"/>
+
+<img src="https://img.shields.io/github/followers/mehranmoghadasi?style=for-the-badge&color=06B6D4&labelColor=0D1117&label=FOLLOWERS" alt="followers"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/mehranmoghadasi?style=for-the-badge&color=8B5CF6&labelColor=0D1117&label=STARS+EARNED&affiliations=OWNER" alt="stars earned"/>
+&nbsp;
+<img src="https://img.shields.io/github/last-commit/mehranmoghadasi/technical-seo-audit-framework?style=for-the-badge&color=22D3EE&labelColor=0D1117&label=LAST+COMMIT" alt="last commit"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehranmoghadasi&theme=tokyo-night&bg_color=0D1117&color=06B6D4&line=8B5CF6&point=22D3EE&hide_border=true&area=true" alt="Activity Graph"/>
+
 </div>
 
 <br/>
-
-<!-- ──────────────────────────────────────  CURRENTLY OPEN TO  ─────────────────────────────────── -->
 
 ## <picture><img src="https://img.shields.io/badge/-💼_Currently_Open_To-F472B6?style=flat-square&labelColor=0D1117" alt="Currently Open To"/></picture>
 
@@ -203,8 +220,6 @@
 
 <br/>
 
-<!-- ─────────────────────────────────────────  CONNECT  ─────────────────────────────────────────── -->
-
 ## <picture><img src="https://img.shields.io/badge/-🔗_Connect-06B6D4?style=flat-square&labelColor=0D1117" alt="Connect"/></picture>
 
 <div align="center">
@@ -222,7 +237,7 @@
 <div align="center">
 
 <sub>
-  <b>“Marketing without engineering is guesswork. Engineering without marketing is invisible. I build at the intersection.”</b>
+  <b>"Marketing without engineering is guesswork. Engineering without marketing is invisible. I build at the intersection."</b>
 </sub>
 
 <br/><br/>
