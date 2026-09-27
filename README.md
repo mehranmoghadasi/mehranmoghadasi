@@ -1,308 +1,191 @@
-<!--
-  Profile README for github.com/mehranmoghadasi
-  Source of truth: linkedin.com/in/mehranmoghadasi
-  Theme: Dark + electric accent (cyan #06B6D4 / violet #8B5CF6)
-  Last updated: 2026-07-20
--->
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mehranmoghadasi">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=920&height=80&lines=Digital+Marketing+%26+Brand+Manager;SEO+%C2%B7+Google+Ads+%C2%B7+Meta+Ads+%C2%B7+Social+Media;13%2B+years+across+Canada+%26+international+markets;Helping+businesses+grow+through+smart+web+%26+marketing" alt="role"/>
-</a>
+<img src="https://raw.githubusercontent.com/mehranmoghadasi/mehranmoghadasi/main/assets/banner.svg" alt="Mehran Moghadasi, Computer Engineer and Digital Marketing and Brand Manager, Calgary" width="100%">
 
 <br/>
 
-</div>
-
-<table align="center" cellspacing="0" cellpadding="6"><tr>
-<td align="center" width="200"><a href="https://www.linkedin.com/in/mehranmoghadasi"><img src="https://img.shields.io/badge/LinkedIn-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="34"/></a></td>
-<td align="center" width="200"><a href="mailto:mehran.moghadasi@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="34"/></a></td>
-<td align="center" width="200"><a href="https://mehranmoghadasi.com"><img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" height="34"/></a></td>
-</tr></table>
-
-<table align="center" cellspacing="0" cellpadding="6"><tr>
-<td align="center" width="300"><img src="https://img.shields.io/badge/Calgary%2C_AB%20%C2%B7%20Canada-34D399?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" alt="Calgary, AB · Canada" height="32"/></td>
-<td align="center" width="300"><a href="https://ampmproperties.ca"><img src="https://img.shields.io/badge/%40_AM_PM_Properties_Inc-F472B6?style=for-the-badge&labelColor=0D1117" alt="Current role" height="32"/></a></td>
-</tr></table>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=mehranmoghadasi&style=flat-square&color=06B6D4&label=PROFILE+VIEWS" alt="profile views"/>
+<a href="https://mehranmoghadasi.com"><img src="https://img.shields.io/badge/mehranmoghadasi.com-16191E?style=for-the-badge&logo=googlechrome&logoColor=E8963C" alt="Website"></a>
+<a href="https://www.linkedin.com/in/mehranmoghadasi"><img src="https://img.shields.io/badge/LinkedIn-16191E?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzBBNjZDMiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU1di01LjU3YzAtMS4zMy0uMDMtMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTRWMjAuNDVIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NXY2LjI5ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMiAyLjA2IDIuMDYgMCAwIDEgMCA0LjEyek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjcydjIwLjU2QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzJWMS43MkMyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8+PC9zdmc+" alt="LinkedIn"></a>
+<a href="https://mehranmoghadasi.github.io"><img src="https://img.shields.io/badge/Open_source_overview-16191E?style=for-the-badge&logo=github&logoColor=E9ECEF" alt="Open-source overview"></a>
+<img src="https://img.shields.io/badge/Calgary,_AB-16191E?style=for-the-badge&logo=googlemaps&logoColor=E8963C" alt="Calgary, Alberta">
 
 </div>
 
 <br/>
 
-## <picture><img src="https://img.shields.io/badge/-◢_About-06B6D4?style=flat-square&labelColor=0D1117" alt="About"/></picture>
+Computer engineer by degree, marketing and brand leader by trade. I lead brand and digital growth at **AM PM Properties** in Calgary, and I still write the software my marketing runs on: the Python and Node tools below audit tracking, watch search coverage and stop a client report from going out on broken data.
 
-```diff
-+ Over 13 years of digital marketing and brand management experience, working
-+ across international markets and now based in Calgary, Alberta.
-+
-+ Currently Digital Marketing & Brand Manager at AM PM Properties Inc., where I
-+ lead all brand, digital, and online growth initiatives for one of Calgary's
-+ expanding property management companies — brand strategy, SEO, paid advertising,
-+ social media, content, online reputation, and monthly performance reporting.
-+
-+ Before Canada, I spent over a decade managing digital marketing and web
-+ development for 10+ clients simultaneously across service, e-commerce, and
-+ professional services industries.
-+
-+ I work at the intersection of strategy and execution — I can develop a brand
-+ from the ground up, run the campaigns that make it visible, and read the data
-+ that keeps it growing.
-+
-+ Based in Calgary, AB · Authorized to work in Canada without employer sponsorship.
+I started in 2011 building websites, spent six years as a senior web developer, then seven years running marketing and web operations for 10+ client accounts at a time. So I can plan the campaign, and I can build the system that tells us honestly whether it worked.
+
+---
+
+## Two halves of the same job
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### Engineering
+
+Python and Node tooling against the GA4 Data API, Search Console API and Google Ads exports. Tested, documented, running in CI.
+
+<img src="https://img.shields.io/badge/Python-16191E?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
+<img src="https://img.shields.io/badge/JavaScript-16191E?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+<img src="https://img.shields.io/badge/Node.js-16191E?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
+<img src="https://img.shields.io/badge/PHP-16191E?style=flat-square&logo=php&logoColor=8892BF" alt="PHP">
+<img src="https://img.shields.io/badge/SQL-16191E?style=flat-square&logo=sqlite&logoColor=4FA3E0" alt="SQL">
+<img src="https://img.shields.io/badge/FastAPI-16191E?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI">
+<img src="https://img.shields.io/badge/pytest-16191E?style=flat-square&logo=pytest&logoColor=0A9EDC" alt="pytest">
+<img src="https://img.shields.io/badge/Jinja-16191E?style=flat-square&logo=jinja&logoColor=E9ECEF" alt="Jinja">
+<img src="https://img.shields.io/badge/Tailwind_CSS-16191E?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/HTML5-16191E?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5">
+<img src="https://img.shields.io/badge/GitHub_Actions-16191E?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions">
+<img src="https://img.shields.io/badge/Git-16191E?style=flat-square&logo=git&logoColor=F05032" alt="Git">
+<img src="https://img.shields.io/badge/Linux-16191E?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux">
+<img src="https://img.shields.io/badge/WordPress-16191E?style=flat-square&logo=wordpress&logoColor=3F9BD6" alt="WordPress">
+
+</td>
+<td valign="top" width="50%">
+
+### Marketing and brand
+
+Brand strategy and positioning, search and social campaigns, technical and local SEO, reputation, and the monthly reporting that ties it together.
+
+<img src="https://img.shields.io/badge/Google_Ads-16191E?style=flat-square&logo=googleads&logoColor=4285F4" alt="Google Ads">
+<img src="https://img.shields.io/badge/Meta_Ads-16191E?style=flat-square&logo=meta&logoColor=1877F2" alt="Meta Ads">
+<img src="https://img.shields.io/badge/Google_Analytics_4-16191E?style=flat-square&logo=googleanalytics&logoColor=E37400" alt="Google Analytics 4">
+<img src="https://img.shields.io/badge/Tag_Manager-16191E?style=flat-square&logo=googletagmanager&logoColor=4E8EF7" alt="Google Tag Manager">
+<img src="https://img.shields.io/badge/Search_Console-16191E?style=flat-square&logo=googlesearchconsole&logoColor=458CF5" alt="Search Console">
+<img src="https://img.shields.io/badge/BigQuery-16191E?style=flat-square&logo=googlebigquery&logoColor=669DF6" alt="BigQuery">
+<img src="https://img.shields.io/badge/Looker_Studio-16191E?style=flat-square&logo=looker&logoColor=8AB4F8" alt="Looker Studio">
+<img src="https://img.shields.io/badge/Business_Profile-16191E?style=flat-square&logo=googlemaps&logoColor=34A853" alt="Google Business Profile">
+<img src="https://img.shields.io/badge/HubSpot-16191E?style=flat-square&logo=hubspot&logoColor=FF7A59" alt="HubSpot">
+<img src="https://img.shields.io/badge/Mailchimp-16191E?style=flat-square&logo=mailchimp&logoColor=FFE01B" alt="Mailchimp">
+<img src="https://img.shields.io/badge/OpenAI_API-16191E?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzEwQTM3RiIgZD0iTTIyLjI4MTkgOS44MjExYTUuOTg0NyA1Ljk4NDcgMCAwIDAtLjUxNTctNC45MTA4IDYuMDQ2MiA2LjA0NjIgMCAwIDAtNi41MDk4LTIuOUE2LjA2NTEgNi4wNjUxIDAgMCAwIDQuOTgwNyA0LjE4MThhNS45ODQ3IDUuOTg0NyAwIDAgMC0zLjk5NzcgMi45IDYuMDQ2MiA2LjA0NjIgMCAwIDAgLjc0MjcgNy4wOTY2IDUuOTggNS45OCAwIDAgMCAuNTExIDQuOTEwNyA2LjA1MSA2LjA1MSAwIDAgMCA2LjUxNDYgMi45MDAxQTUuOTg0NyA1Ljk4NDcgMCAwIDAgMTMuMjU5OSAyNGE2LjA1NTcgNi4wNTU3IDAgMCAwIDUuNzcxOC00LjIwNTggNS45ODk0IDUuOTg5NCAwIDAgMCAzLjk5NzctMi45MDAxIDYuMDU1NyA2LjA1NTcgMCAwIDAtLjc0NzUtNy4wNzI5em0tOS4wMjIgMTIuNjA4MWE0LjQ3NTUgNC40NzU1IDAgMCAxLTIuODc2NC0xLjA0MDhsLjE0MTktLjA4MDQgNC43NzgzLTIuNzU4MmEuNzk0OC43OTQ4IDAgMCAwIC4zOTI3LS42ODEzdi02LjczNjlsMi4wMiAxLjE2ODZhLjA3MS4wNzEgMCAwIDEgLjAzOC4wNTJ2NS41ODI2YTQuNTA0IDQuNTA0IDAgMCAxLTQuNDk0NSA0LjQ5NDR6bS05LjY2MDctNC4xMjU0YTQuNDcwOCA0LjQ3MDggMCAwIDEtLjUzNDYtMy4wMTM3bC4xNDIuMDg1MiA0Ljc4MyAyLjc1ODJhLjc3MTIuNzcxMiAwIDAgMCAuNzgwNiAwbDUuODQyOC0zLjM2ODV2Mi4zMzI0YS4wODA0LjA4MDQgMCAwIDEtLjAzMzIuMDYxNUw5Ljc0IDE5Ljk1MDJhNC40OTkyIDQuNDk5MiAwIDAgMS02LjE0MDgtMS42NDY0ek0yLjM0MDggNy44OTU2YTQuNDg1IDQuNDg1IDAgMCAxIDIuMzY1NS0xLjk3MjhWMTEuNmEuNzY2NC43NjY0IDAgMCAwIC4zODc5LjY3NjVsNS44MTQ0IDMuMzU0My0yLjAyMDEgMS4xNjg1YS4wNzU3LjA3NTcgMCAwIDEtLjA3MSAwbC00LjgzMDMtMi43ODY1QTQuNTA0IDQuNTA0IDAgMCAxIDIuMzQwOCA3Ljg3MnptMTYuNTk2MyAzLjg1NThMMTMuMTAzOCA4LjM2NCAxNS4xMTkyIDcuMmEuMDc1Ny4wNzU3IDAgMCAxIC4wNzEgMGw0LjgzMDMgMi43OTEzYTQuNDk0NCA0LjQ5NDQgMCAwIDEtLjY3NjUgOC4xMDQydi01LjY3NzJhLjc5Ljc5IDAgMCAwLS40MDctLjY2N3ptMi4wMTA3LTMuMDIzMWwtLjE0Mi0uMDg1Mi00Ljc3MzUtMi43ODE4YS43NzU5Ljc3NTkgMCAwIDAtLjc4NTQgMEw5LjQwOSA5LjIyOTdWNi44OTc0YS4wNjYyLjA2NjIgMCAwIDEgLjAyODQtLjA2MTVsNC44MzAzLTIuNzg2NmE0LjQ5OTIgNC40OTkyIDAgMCAxIDYuNjgwMiA0LjY2ek04LjMwNjUgMTIuODYzbC0yLjAyLTEuMTYzOGEuMDgwNC4wODA0IDAgMCAxLS4wMzgtLjA1NjdWNi4wNzQyYTQuNDk5MiA0LjQ5OTIgMCAwIDEgNy4zNzU3LTMuNDUzN2wtLjE0Mi4wODA1TDguNzA0IDUuNDU5YS43OTQ4Ljc5NDggMCAwIDAtLjM5MjcuNjgxM3ptMS4wOTc2LTIuMzY1NGwyLjYwMi0xLjQ5OTggMi42MDY5IDEuNDk5OHYyLjk5OTRsLTIuNTk3NCAxLjQ5OTctMi42MDY3LTEuNDk5N1oiLz48L3N2Zz4=" alt="OpenAI API">
+
+</td>
+</tr>
+</table>
+
+---
+
+## Open source
+
+Tools built for problems I hit in real client work. Each one runs on files or APIs an agency already has, and every repository runs its test suite in CI on every push.
+
+<img src="https://raw.githubusercontent.com/mehranmoghadasi/mehranmoghadasi/main/assets/stats.svg" alt="Open source by the numbers: 10 tools, 216 automated tests, CI on all 10 repositories, Python 78.8 percent of shipped code" width="100%">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/mehranmoghadasi/marketing-report-preflight"><img src="https://raw.githubusercontent.com/mehranmoghadasi/mehranmoghadasi/main/assets/card-marketing-report-preflight.svg" alt="marketing-report-preflight" width="100%"></a>
+<a href="https://github.com/mehranmoghadasi/marketing-report-preflight/actions"><img src="https://github.com/mehranmoghadasi/marketing-report-preflight/actions/workflows/python-app.yml/badge.svg" alt="CI"></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/mehranmoghadasi/agency-report-builder"><img src="https://raw.githubusercontent.com/mehranmoghadasi/mehranmoghadasi/main/assets/card-agency-report-builder.svg" alt="agency-report-builder" width="100%"></a>
+<a href="https://github.com/mehranmoghadasi/agency-report-builder/actions"><img src="https://github.com/mehranmoghadasi/agency-report-builder/actions/workflows/python-app.yml/badge.svg" alt="CI"></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/mehranmoghadasi/ga4-event-auditor"><img src="https://raw.githubusercontent.com/mehranmoghadasi/mehranmoghadasi/main/assets/card-ga4-event-auditor.svg" alt="ga4-event-auditor" width="100%"></a>
+<a href="https://github.com/mehranmoghadasi/ga4-event-auditor/actions"><img src="https://github.com/mehranmoghadasi/ga4-event-auditor/actions/workflows/python-app.yml/badge.svg" alt="CI"></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/mehranmoghadasi/gsc-coverage-monitor"><img src="https://raw.githubusercontent.com/mehranmoghadasi/mehranmoghadasi/main/assets/card-gsc-coverage-monitor.svg" alt="gsc-coverage-monitor" width="100%"></a>
+<a href="https://github.com/mehranmoghadasi/gsc-coverage-monitor/actions"><img src="https://github.com/mehranmoghadasi/gsc-coverage-monitor/actions/workflows/node.js.yml/badge.svg" alt="CI"></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/mehranmoghadasi/google-ads-negative-keyword-manager"><img src="https://raw.githubusercontent.com/mehranmoghadasi/mehranmoghadasi/main/assets/card-google-ads-negative-keyword-manager.svg" alt="google-ads-negative-keyword-manager" width="100%"></a>
+<a href="https://github.com/mehranmoghadasi/google-ads-negative-keyword-manager/actions"><img src="https://github.com/mehranmoghadasi/google-ads-negative-keyword-manager/actions/workflows/python-app.yml/badge.svg" alt="CI"></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/mehranmoghadasi/llm-content-brief-engine"><img src="https://raw.githubusercontent.com/mehranmoghadasi/mehranmoghadasi/main/assets/card-llm-content-brief-engine.svg" alt="llm-content-brief-engine" width="100%"></a>
+<a href="https://github.com/mehranmoghadasi/llm-content-brief-engine/actions"><img src="https://github.com/mehranmoghadasi/llm-content-brief-engine/actions/workflows/python-app.yml/badge.svg" alt="CI"></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/mehranmoghadasi/ab-test-significance-toolkit"><img src="https://raw.githubusercontent.com/mehranmoghadasi/mehranmoghadasi/main/assets/card-ab-test-significance-toolkit.svg" alt="ab-test-significance-toolkit" width="100%"></a>
+<a href="https://github.com/mehranmoghadasi/ab-test-significance-toolkit/actions"><img src="https://github.com/mehranmoghadasi/ab-test-significance-toolkit/actions/workflows/python-app.yml/badge.svg" alt="CI"></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/mehranmoghadasi/seo-content-gap-analyzer"><img src="https://raw.githubusercontent.com/mehranmoghadasi/mehranmoghadasi/main/assets/card-seo-content-gap-analyzer.svg" alt="seo-content-gap-analyzer" width="100%"></a>
+<a href="https://github.com/mehranmoghadasi/seo-content-gap-analyzer/actions"><img src="https://github.com/mehranmoghadasi/seo-content-gap-analyzer/actions/workflows/python-app.yml/badge.svg" alt="CI"></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/mehranmoghadasi/seo-internal-link-analyzer"><img src="https://raw.githubusercontent.com/mehranmoghadasi/mehranmoghadasi/main/assets/card-seo-internal-link-analyzer.svg" alt="seo-internal-link-analyzer" width="100%"></a>
+<a href="https://github.com/mehranmoghadasi/seo-internal-link-analyzer/actions"><img src="https://github.com/mehranmoghadasi/seo-internal-link-analyzer/actions/workflows/python-app.yml/badge.svg" alt="CI"></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/mehranmoghadasi/wordpress-performance-optimization"><img src="https://raw.githubusercontent.com/mehranmoghadasi/mehranmoghadasi/main/assets/card-wordpress-performance-optimization.svg" alt="wordpress-performance-optimization" width="100%"></a>
+<a href="https://github.com/mehranmoghadasi/wordpress-performance-optimization/actions"><img src="https://github.com/mehranmoghadasi/wordpress-performance-optimization/actions/workflows/php.yml/badge.svg" alt="CI"></a>
+</td>
+</tr>
+</table>
+
+### How they fit together
+
+The tools form one chain rather than ten unrelated scripts. Each writes JSON the next one reads.
+
+```mermaid
+flowchart LR
+    A["ga4-event-auditor<br/>tracking QA"] --> P
+    B["gsc-coverage-monitor<br/>index coverage"] --> P
+    C[("metrics, consent and<br/>conversion exports")] --> P
+    P{{"marketing-report-preflight<br/>10 data-integrity checks"}}
+    P -- "send" --> R["agency-report-builder<br/>branded client report"]
+    P -- "do not send" --> X["fix the data first"]
+
+    classDef tool fill:#16191E,stroke:#3A414B,color:#E9ECEF
+    classDef gate fill:#16191E,stroke:#E8963C,stroke-width:2px,color:#E8963C
+    classDef stop fill:#16191E,stroke:#B4482F,color:#E9ECEF,stroke-dasharray:4 3
+    class A,B,C,R tool
+    class P gate
+    class X stop
 ```
 
-<br/>
+Writing, not code: [digital-marketing-case-studies](https://github.com/mehranmoghadasi/digital-marketing-case-studies) (anonymised campaign write-ups) and [social-media-marketing-playbook](https://github.com/mehranmoghadasi/social-media-marketing-playbook) (the channel playbook I use for service businesses).
 
-## <picture><img src="https://img.shields.io/badge/-⚡_What_I_Deliver-8B5CF6?style=flat-square&labelColor=0D1117" alt="What I Deliver"/></picture>
+---
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎯 &nbsp;Paid Media Performance</h3>
-      <p>Google Ads and Meta Ads campaigns with monthly budgets up to <b>$5,000</b>, achieving <b>ROAS of 5.0x</b> on e-commerce and reducing <b>cost per lead by up to 54%</b> through audience segmentation, RLSA, and A/B ad-copy testing. Meta Ads campaigns driving <b>up to 70% customer acquisition growth</b> within 30 days.</p>
-      <p><sub><b>Stack:</b> Google Ads · Meta Ads · Google Ads Manager · GA4</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔍 &nbsp;SEO &amp; Web Performance</h3>
-      <p>Technical SEO improvements — structured data (JSON-LD), XML sitemaps, Core Web Vitals fixes, crawl-error resolution. Built and optimized <b>30+ WordPress websites</b>, cutting average load times from <b>6–7 seconds to under 3</b>. Achieved page 1 Google rankings for <b>12+ local businesses within 45 days</b>.</p>
-      <p><sub><b>Stack:</b> WordPress · PHP · Search Console · CDN + caching · JSON-LD</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧭 &nbsp;Brand &amp; Content Strategy</h3>
-      <p>Multi-channel campaigns, editorial calendars, and brand guidelines for service, e-commerce, and professional-services clients. Managing Facebook, Instagram, LinkedIn, TikTok, and YouTube for AM PM Properties — content calendars, short-form video, engagement growth, and reputation management (maintaining <b>4.8★+</b> rating).</p>
-      <p><sub><b>Stack:</b> Meta suite · TikTok · YouTube · GBP · Email marketing</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 &nbsp;Marketing Automation &amp; Reporting</h3>
-      <p>Open-source Python and Node CLIs I've built to compress agency workflows — GA4 event audits, Google Ads negative-keyword cleaners, GSC coverage monitors, SERP-driven content briefs, and one-command GA4+GSC agency reports. Replaces hours of manual work with reproducible pipelines.</p>
-      <p><sub><b>Stack:</b> Python · Node.js · GA4 Data API · Google Ads API · OpenAI API</sub></p>
-    </td>
-  </tr>
-</table>
+## Building next
 
-<br/>
+Planned, not shipped. Listed so the direction is clear, and revised whenever client work says something else matters more.
 
-## <picture><img src="https://img.shields.io/badge/-🛠_Tech_%26_Marketing_Stack-22D3EE?style=flat-square&labelColor=0D1117" alt="Tech & Marketing Stack"/></picture>
+<img src="https://raw.githubusercontent.com/mehranmoghadasi/mehranmoghadasi/main/assets/roadmap.svg" alt="Planned, not shipped: an on-page inspector browser extension, a local SEO toolkit, and an agency client portal" width="100%">
+
+---
+
+## Experience
+
+Fifteen years across both halves of the job. The tags show which half each role leaned on.
+
+| Role | Scope |
+| --- | --- |
+| **Digital Marketing & Brand Manager**<br/>AM PM Properties Inc, Calgary<br/><sub>Jul 2026 to present</sub><br/><img src="https://img.shields.io/badge/marketing_%26_brand-3F7CC0?style=flat-square" alt="marketing and brand"> | All brand, digital and growth work for a boutique property management company with 600+ residential properties: brand, website, SEO, paid campaigns, social, reputation, and monthly reporting to ownership. |
+| **Digital Marketing Consultant**<br/>Upwork, Edmonton (remote)<br/><sub>Jan 2026 to Jun 2026</sub><br/><img src="https://img.shields.io/badge/marketing_%26_brand-3F7CC0?style=flat-square" alt="marketing and brand"> | Consulting and hands-on execution for small and medium businesses while establishing myself in the Canadian market: SEO audits, Google and Meta campaigns, WordPress builds. |
+| **Web & Digital Marketing Manager**<br/>Fanavari Rayan Mehr Rahjoo, Tehran<br/><sub>Oct 2018 to Dec 2025</sub><br/><img src="https://img.shields.io/badge/marketing_%26_brand-3F7CC0?style=flat-square" alt="marketing and brand"> <img src="https://img.shields.io/badge/engineering-E8963C?style=flat-square" alt="engineering"> | Marketing, brand and web operations for 10+ client accounts at a time. Led a cross-functional team of ten and ran paid budgets from $900 to $5,000 per client per month. Most of the tooling above began as internal scripts here. |
+| **Senior Web Developer & Digital Marketing Specialist**<br/>Persia Mehr Co., Tehran<br/><sub>Oct 2012 to Sep 2018</sub><br/><img src="https://img.shields.io/badge/engineering-E8963C?style=flat-square" alt="engineering"> <img src="https://img.shields.io/badge/marketing_%26_brand-3F7CC0?style=flat-square" alt="marketing and brand"> | Designed, built and marketed 30+ WordPress sites for local businesses and professional services, owning both the build and the campaigns that followed it. |
+| **Web Developer, internship**<br/>Iricom IT Center, Isfahan<br/><sub>Oct 2011 to Oct 2012</sub><br/><img src="https://img.shields.io/badge/engineering-E8963C?style=flat-square" alt="engineering"> | Web interfaces, network and VoIP configuration, and infrastructure support. The engineering grounding the rest of this timeline is built on. |
+
+## Education
+
+<img src="https://img.shields.io/badge/B.Sc._Computer_Engineering-16191E?style=flat-square&logo=gitbook&logoColor=E8963C" alt="B.Sc. Computer Engineering"> &nbsp;University of Isfahan, 2008 to 2012
+
+<img src="https://img.shields.io/badge/M.Sc._Socio--Economic_Systems_Engineering-16191E?style=flat-square&logo=gitbook&logoColor=E8963C" alt="M.Sc. Socio-Economic Systems Engineering"> &nbsp;Islamic Azad University, Science and Research Branch, 2013 to 2015
+
+---
 
 <div align="center">
 
-**Languages**
+Open to brand, growth and marketing-technology roles in Calgary, and to issues or pull requests on anything above.
 
-<a href="#"><img src="https://skillicons.dev/icons?i=python,php,js,ts,html,css,bash&theme=dark" alt="languages"/></a>
-
-**Frameworks &amp; CMS**
-
-<a href="#"><img src="https://skillicons.dev/icons?i=wordpress,tailwind,react,nodejs,fastapi,flask&theme=dark" alt="frameworks"/></a>
-
-**Marketing &amp; Analytics Stack**
-
-<p>
-<img src="https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white&labelColor=0D1117" alt="Google Ads"/>
-<img src="https://img.shields.io/badge/Meta_Ads-1877F2?style=for-the-badge&logo=meta&logoColor=white&labelColor=0D1117" alt="Meta Ads"/>
-<img src="https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white&labelColor=0D1117" alt="GA4"/>
-<img src="https://img.shields.io/badge/GTM-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white&labelColor=0D1117" alt="GTM"/>
-<img src="https://img.shields.io/badge/Search_Console-458CF5?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1117" alt="GSC"/>
-<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white&labelColor=0D1117" alt="Looker Studio"/>
-<img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white&labelColor=0D1117" alt="HubSpot"/>
-<img src="https://img.shields.io/badge/Meta_Business-1877F2?style=for-the-badge&logo=meta&logoColor=white&labelColor=0D1117" alt="Meta Business"/>
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0D1117" alt="TikTok"/>
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117" alt="YouTube"/>
-</p>
-
-**Tooling**
-
-<a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,docker,vercel,figma&theme=dark" alt="tooling"/></a>
-
-</div>
-
-<br/>
-
-## <picture><img src="https://img.shields.io/badge/-📌_Featured_Projects-A78BFA?style=flat-square&labelColor=0D1117" alt="Featured Projects"/></picture>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mehranmoghadasi/llm-content-brief-engine">🧠&nbsp; llm-content-brief-engine</a></h3>
-      <p>Python CLI that turns any keyword into a structured SEO content brief — crawls top SERP results, extracts headings / entities / PAA, synthesizes recommendations via OpenAI.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0D1117" alt="Python"/>
-        <img src="https://img.shields.io/badge/SEO-06B6D4?style=flat-square&labelColor=0D1117" alt="SEO"/>
-        <img src="https://img.shields.io/badge/OpenAI-8B5CF6?style=flat-square&logo=openai&logoColor=white&labelColor=0D1117" alt="OpenAI"/>
-        <img src="https://img.shields.io/github/stars/mehranmoghadasi/llm-content-brief-engine?style=flat-square&color=22D3EE&labelColor=0D1117" alt="stars"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mehranmoghadasi/agency-report-builder">📊&nbsp; agency-report-builder</a></h3>
-      <p>Python CLI that pulls GA4 + Google Search Console data, renders a branded HTML report with period-over-period comparisons, and exports to PDF in one command — built for agencies.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0D1117" alt="Python"/>
-        <img src="https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white&labelColor=0D1117" alt="GA4"/>
-        <img src="https://img.shields.io/badge/Reporting-F472B6?style=flat-square&labelColor=0D1117" alt="Reporting"/>
-        <img src="https://img.shields.io/github/stars/mehranmoghadasi/agency-report-builder?style=flat-square&color=22D3EE&labelColor=0D1117" alt="stars"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mehranmoghadasi/ga4-event-auditor">🧪&nbsp; ga4-event-auditor</a></h3>
-      <p>Python CLI that audits GA4 event implementations by comparing live event data against a measurement plan — flags missing events, parameter mismatches, and naming inconsistencies.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0D1117" alt="Python"/>
-        <img src="https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white&labelColor=0D1117" alt="GA4"/>
-        <img src="https://img.shields.io/badge/Analytics-06B6D4?style=flat-square&labelColor=0D1117" alt="Analytics"/>
-        <img src="https://img.shields.io/github/stars/mehranmoghadasi/ga4-event-auditor?style=flat-square&color=22D3EE&labelColor=0D1117" alt="stars"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mehranmoghadasi/google-ads-negative-keyword-manager">🎯&nbsp; google-ads-negative-keyword-manager</a></h3>
-      <p>Python CLI that analyzes your Google Ads search term reports to suggest, deduplicate, and export campaign-level negative keywords — saving hours of manual work every week.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0D1117" alt="Python"/>
-        <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=googleads&logoColor=white&labelColor=0D1117" alt="Google Ads"/>
-        <img src="https://img.shields.io/badge/PPC-8B5CF6?style=flat-square&labelColor=0D1117" alt="PPC"/>
-        <img src="https://img.shields.io/github/stars/mehranmoghadasi/google-ads-negative-keyword-manager?style=flat-square&color=22D3EE&labelColor=0D1117" alt="stars"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mehranmoghadasi/technical-seo-audit-framework">🔍&nbsp; technical-seo-audit-framework</a></h3>
-      <p>Crawl-aware audit framework with a Python URL checker and JSON-LD schema templates. Built for agencies running site-wide audits across 100+ pages.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0D1117" alt="Python"/>
-        <img src="https://img.shields.io/badge/Technical_SEO-06B6D4?style=flat-square&labelColor=0D1117" alt="Technical SEO"/>
-        <img src="https://img.shields.io/badge/JSON--LD-8B5CF6?style=flat-square&labelColor=0D1117" alt="JSON-LD"/>
-        <img src="https://img.shields.io/github/stars/mehranmoghadasi/technical-seo-audit-framework?style=flat-square&color=22D3EE&labelColor=0D1117" alt="stars"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mehranmoghadasi/wordpress-performance-optimization">⚡&nbsp; wordpress-performance-optimization</a></h3>
-      <p>WordPress speed optimization toolkit — PHP helpers, .htaccess rules, and a 50-point checklist for getting Core Web Vitals into the green.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white&labelColor=0D1117" alt="PHP"/>
-        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white&labelColor=0D1117" alt="WordPress"/>
-        <img src="https://img.shields.io/badge/Web_Vitals-34D399?style=flat-square&labelColor=0D1117" alt="Web Vitals"/>
-        <img src="https://img.shields.io/github/stars/mehranmoghadasi/wordpress-performance-optimization?style=flat-square&color=22D3EE&labelColor=0D1117" alt="stars"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <sub><a href="https://github.com/mehranmoghadasi?tab=repositories&type=source&sort=updated"><b>→ Browse all 20+ public repositories</b></a></sub>
-</div>
-
-<br/>
-
-## <picture><img src="https://img.shields.io/badge/-💼_Experience-F472B6?style=flat-square&labelColor=0D1117" alt="Experience"/></picture>
-
-<table>
-  <tr>
-    <td width="35%" valign="top"><b>Digital Marketing &amp; Brand Manager</b><br/><sub><code>AM PM Properties Inc</code></sub></td>
-    <td width="20%" valign="top"><sub>Jul 2026 – Present</sub><br/><sub><i>Calgary, AB · On-site</i></sub></td>
-    <td valign="top">Leading corporate marketing, branding, and digital growth for a Calgary-based boutique property management company managing <b>600+ residential properties</b> — brand strategy, SEO, paid ads, social, reputation (4.8★+), PR, and monthly reporting.</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Digital Marketing Consultant</b><br/><sub><code>Upwork</code></sub></td>
-    <td valign="top"><sub>Jan 2026 – Jun 2026</sub><br/><sub><i>Edmonton, AB · Remote</i></sub></td>
-    <td valign="top">Digital marketing consulting and execution for SMBs while transitioning to the Canadian market — SEO audits, Meta and Google ad campaigns, WordPress builds, content strategy, and monthly performance reports.</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Web &amp; Digital Marketing Manager</b><br/><sub><code>Fanavari Rayan Mehr Rahjoo LLC</code></sub></td>
-    <td valign="top"><sub>Oct 2018 – Dec 2025 · 7 yrs</sub><br/><sub><i>Tehran Province, Iran · On-site</i></sub></td>
-    <td valign="top">Managed digital marketing strategy, brand development, and web operations for <b>10+ clients simultaneously</b>. Led a cross-functional team of 10. Ran Google Ads campaigns ($900–$5k / client), achieved 5.0x ROAS, reduced cost/lead 54%, and delivered page-1 rankings for 12+ local businesses within 45 days.</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Senior Web Developer &amp; Digital Marketing Specialist</b><br/><sub><code>Persia Mehr Co.</code></sub></td>
-    <td valign="top"><sub>Oct 2012 – Sep 2018 · 6 yrs</sub><br/><sub><i>Tehran Province, Iran · On-site</i></sub></td>
-    <td valign="top">Designed, developed, and marketed custom WordPress sites for local businesses and professional-services clients — technical SEO audits, on-page SEO, local SEO (GBP + citations), content calendars, and campaign reporting.</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Web Developer</b><br/><sub><code>Iricom IT Center</code></sub></td>
-    <td valign="top"><sub>Oct 2011 – Oct 2012 · 1 yr</sub><br/><sub><i>Isfahan Province, Iran · On-site</i></sub></td>
-    <td valign="top">Entry-level web development and IT-support role — built and maintained web interfaces, configured networks and VoIP, and supported infrastructure that became the technical foundation for a decade of marketing-engineering work.</td>
-  </tr>
-</table>
-
-<br/>
-
-## <picture><img src="https://img.shields.io/badge/-🎓_Education-A78BFA?style=flat-square&labelColor=0D1117" alt="Education"/></picture>
-
-<table>
-  <tr>
-    <td width="55%" valign="top"><b>Master's Degree, Industrial Engineering</b><br/><sub>Islamic Azad University, Science and Research Branch, Tehran</sub></td>
-    <td width="20%" valign="top"><sub>2012 – 2015</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Bachelor of Science, Computer Hardware Engineering</b><br/><sub>University of Isfahan</sub></td>
-    <td valign="top"><sub>2007 – 2012</sub></td>
-  </tr>
-</table>
-
-<br/>
-
-## <picture><img src="https://img.shields.io/badge/-📊_GitHub_Activity-34D399?style=flat-square&labelColor=0D1117" alt="GitHub Activity"/></picture>
-
-<div align="center">
-
-<img src="https://img.shields.io/github/followers/mehranmoghadasi?style=for-the-badge&color=06B6D4&labelColor=0D1117&label=FOLLOWERS" alt="followers"/>
-&nbsp;
-<img src="https://img.shields.io/github/stars/mehranmoghadasi?style=for-the-badge&color=8B5CF6&labelColor=0D1117&label=STARS+EARNED&affiliations=OWNER" alt="stars earned"/>
-&nbsp;
-<img src="https://img.shields.io/github/last-commit/mehranmoghadasi/agency-report-builder?style=for-the-badge&color=22D3EE&labelColor=0D1117&label=LAST+COMMIT" alt="last commit"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehranmoghadasi&theme=tokyo-night&bg_color=0D1117&color=06B6D4&line=8B5CF6&point=22D3EE&hide_border=true&area=true" alt="Activity Graph"/>
-
-</div>
-
-<br/>
-
-## <picture><img src="https://img.shields.io/badge/-🔗_Connect-06B6D4?style=flat-square&labelColor=0D1117" alt="Connect"/></picture>
-
-<table align="center" cellspacing="0" cellpadding="14">
-  <tr>
-    <td align="center" width="240">
-      <a href="https://www.linkedin.com/in/mehranmoghadasi">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="36"/>
-      </a>
-    </td>
-    <td align="center" width="240">
-      <a href="mailto:mehran.moghadasi@gmail.com">
-        <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="36"/>
-      </a>
-    </td>
-    <td align="center" width="240">
-      <a href="https://mehranmoghadasi.com">
-        <img src="https://img.shields.io/badge/Website-22D3EE?style=for-the-badge&logo=safari&logoColor=white" alt="Website" height="36"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><sub><code>in/mehranmoghadasi</code></sub></td>
-    <td align="center"><sub><code>mehran.moghadasi@gmail.com</code></sub></td>
-    <td align="center"><sub><code>mehranmoghadasi.com</code></sub></td>
-  </tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-<sub>
-  <b>Helping businesses grow through smart web &amp; marketing solutions.</b>
-</sub>
-
-<br/><br/>
-
-<sub>⌁ Last updated <code>2026-07-20</code> ⌁</sub>
+<a href="https://mehranmoghadasi.com"><img src="https://img.shields.io/badge/mehranmoghadasi.com-16191E?style=flat-square&logo=googlechrome&logoColor=E8963C" alt="Website"></a>
+<a href="https://www.linkedin.com/in/mehranmoghadasi"><img src="https://img.shields.io/badge/LinkedIn-16191E?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzBBNjZDMiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU1di01LjU3YzAtMS4zMy0uMDMtMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTRWMjAuNDVIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NXY2LjI5ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMiAyLjA2IDIuMDYgMCAwIDEgMCA0LjEyek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjcydjIwLjU2QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzJWMS43MkMyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8+PC9zdmc+" alt="LinkedIn"></a>
 
 </div>
